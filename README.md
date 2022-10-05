@@ -1,7 +1,7 @@
 ### Meet Me:
 
 
-- 🌱 I’m currently learning CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about web3
 - 📫 Mail me @: ayodeled55@gmail.com
