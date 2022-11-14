@@ -9,4 +9,3 @@
 Badges:
 [![@web3_ayo's Holopin board](https://holopin.io/api/user/board?user=web3_ayo)](https://holopin.io/@web3_ayo)
 
-[![@web3_ayo's Holopin board](https://holopin.me/web3_ayo)](https://holopin.io/@web3_ayo)
