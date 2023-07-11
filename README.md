@@ -5,5 +5,4 @@
 
 • we are currently building League of Shoguns on Aptos
 
-
 Email: braham@axxon.network
