@@ -1,10 +1,5 @@
-### Meet Me:
+• i am a software developer and co-founder at Axxon Network inc.
+• at Axxon, we build both web3 and traditional games.
+• we are currently building League of Shoguns on Aptos
 
-- 🌱 C, Python, JavaScript, HTML, and CSS
-- 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about web3
-- ⚡ Fun fact: When it comes to web3, I do magic with pens...I write well
-
-Badges:
-[![@web3_ayo's Holopin board](https://holopin.io/api/user/board?user=web3_ayo)](https://holopin.io/@web3_ayo)
-
+Email: braham@axxon.network
